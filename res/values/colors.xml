@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red_light">#e06558</color>
+    <color name="green_light">#56c491</color>
+    <color name="orange_light">#ffa12e</color>
+    <color name="blue_light">#5d98f0</color>
+    <color name="especial_blue">#323d4d</color>
+
+    <!-- colores con opacidad -->
+    <color name="black_">#33000000</color>
+    <color name="white_">#33ffffff</color>
+    <color name="red_">#33e06558</color>
+    <color name="green_">#3356c491</color>
+    <color name="orange_">#33ffa12e</color>
+    <color name="blue_">#805d98f0</color>
+    
+    <!-- Colores Facebook Flat Buttons -->
+    <color name="color_flat_facebook_a">#3a5994</color>
+    <color name="color_flat_facebook_b">#153473</color>
+    
+    
+    
+    <!-- helpers -->
+    <!--
+	100% — FF
+	95% — F2
+	90% — E6
+	85% — D9
+	80% — CC
+	75% — BF
+	70% — B3
+	65% — A6
+	60% — 99
+	55% — 8C
+	50% — 80
+	45% — 73
+	40% — 66
+	35% — 59
+	30% — 4D
+	25% — 40
+	20% — 33
+	15% — 26
+	10% — 1A
+	5% — 0D
+	0% — 00
+	-->
+
+</resources>
