@@ -21,6 +21,11 @@ public class Main extends ActionBarActivity {
 		}
 	}
 
+	@Override
+	protected void onResume() {
+		super.onResume();
+		getSupportActionBar().hide();
+	}
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {

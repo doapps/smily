@@ -5,8 +5,10 @@ import android.app.Application;
 import com.doapps.me.beans.Entidad_DTO;
 import com.doapps.me.beans.Publicacion_DTO;
 import com.doapps.me.beans.Usuario_DTO;
+import com.doapps.me.smily.R;
 import com.parse.Parse;
 import com.parse.ParseACL;
+import com.parse.ParseFacebookUtils;
 import com.parse.ParseObject;
 import com.parse.ParseUser;
 
@@ -25,7 +27,7 @@ public class Main_Application extends Application {
 		ParseObject.registerSubclass(Usuario_DTO.class);
 
 		Parse.initialize(this,APLICATION_ID,CLIENT_KEY);
-		//ParseFacebookUtils.initialize(getString(R.string.app_id));
+		ParseFacebookUtils.initialize(getString(R.string.app_id));
 
 		ParseUser.enableAutomaticUser();
 		ParseACL defaultACL = new ParseACL();

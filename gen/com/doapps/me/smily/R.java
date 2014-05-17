@@ -1517,8 +1517,9 @@ containing a value of this type.
         /**  Description of a share target (both in the list of such or the default share button) in a ShareActionProvider (share UI). [CHAR LIMIT=NONE] 
          */
         public static final int abc_shareactionprovider_share_with_application=0x7f060024;
-        public static final int action_settings=0x7f060028;
-        public static final int app_name=0x7f060026;
+        public static final int action_settings=0x7f060029;
+        public static final int app_id=0x7f060026;
+        public static final int app_name=0x7f060027;
         public static final int com_facebook_choose_friends=0x7f06000f;
         public static final int com_facebook_dialogloginactivity_ok_button=0x7f060000;
         public static final int com_facebook_internet_permission_error_message=0x7f060013;
@@ -1544,12 +1545,13 @@ containing a value of this type.
         public static final int com_facebook_usersettingsfragment_log_in_button=0x7f060008;
         public static final int com_facebook_usersettingsfragment_logged_in=0x7f060009;
         public static final int com_facebook_usersettingsfragment_not_logged_in=0x7f06000a;
-        public static final int hello_world=0x7f060027;
-        public static final int logo_text=0x7f060029;
-        public static final int splash_title=0x7f06002a;
-        /**   text content - login 
+        public static final int hello_world=0x7f060028;
+        public static final int inciando_sesion=0x7f06002d;
+        public static final int logo_text=0x7f06002a;
+        public static final int splash_title=0x7f06002b;
+        /**  text content - login 
          */
-        public static final int txt_fb=0x7f06002b;
+        public static final int txt_fb=0x7f06002c;
     }
     public static final class style {
         /** 

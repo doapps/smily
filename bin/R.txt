@@ -489,8 +489,9 @@ int string abc_searchview_description_submit 0x7f060020
 int string abc_searchview_description_voice 0x7f060021
 int string abc_shareactionprovider_share_with 0x7f060025
 int string abc_shareactionprovider_share_with_application 0x7f060024
-int string action_settings 0x7f060028
-int string app_name 0x7f060026
+int string action_settings 0x7f060029
+int string app_id 0x7f060026
+int string app_name 0x7f060027
 int string com_facebook_choose_friends 0x7f06000f
 int string com_facebook_dialogloginactivity_ok_button 0x7f060000
 int string com_facebook_internet_permission_error_message 0x7f060013
@@ -516,10 +517,11 @@ int string com_facebook_requesterror_web_login 0x7f060014
 int string com_facebook_usersettingsfragment_log_in_button 0x7f060008
 int string com_facebook_usersettingsfragment_logged_in 0x7f060009
 int string com_facebook_usersettingsfragment_not_logged_in 0x7f06000a
-int string hello_world 0x7f060027
-int string logo_text 0x7f060029
-int string splash_title 0x7f06002a
-int string txt_fb 0x7f06002b
+int string hello_world 0x7f060028
+int string inciando_sesion 0x7f06002d
+int string logo_text 0x7f06002a
+int string splash_title 0x7f06002b
+int string txt_fb 0x7f06002c
 int style AppBaseTheme 0x7f09008d
 int style AppTheme 0x7f09008e
 int style Holo_Flat_Button_Facebook 0x7f09008f
