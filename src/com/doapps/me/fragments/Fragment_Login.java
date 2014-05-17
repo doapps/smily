@@ -12,6 +12,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.Toast;
 
 import com.doapps.me.smily.Main;
@@ -49,6 +50,8 @@ public class Fragment_Login extends Fragment {
 	@Override
 	public void onResume() {
 		super.onResume();
+		
+		((Button)getView().findViewById(R.id.b))
 	}
 
 	@Override

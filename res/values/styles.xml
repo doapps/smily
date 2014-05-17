@@ -16,7 +16,7 @@
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
-	
+
     <!-- Estilos de Flat Buttons Login -->
     <style name="Holo_Flat_Button_Facebook" parent="@android:style/Widget.Button">
         <item name="android:height">48dp</item>
@@ -27,4 +27,5 @@
         <item name="android:background">@drawable/selector_btn_fb</item>
         <item name="android:gravity">center</item>
     </style>
+
 </resources>
